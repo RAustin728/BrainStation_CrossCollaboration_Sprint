@@ -26,7 +26,10 @@ Contributions:
   Exploratory Data Analysis (EDA): Verifying how the ethical datasets address ethical principles, and noting how imbalances in the data will add its own bias.
   Data Visualization: Representing the count data as bar charts, merging count data with a geospatial dataset to present the geographical distribution of data points.
   Presentation: Focusing on the need to ensure the source data is as ethical as possible, rather than showcasing statistical analysis skills with questionable underlying data.
-  Criteria Satisfaction: The analysis was not statistically advanced, but it demonstrated a human oversight and thoughtfulness that is not considered often enough. The insights are actionable and can directly support decision-making. It is a more costly approach, however.
+
+Criteria Satisfaction: 
+The analysis was not statistically advanced, but it demonstrated a human oversight and thoughtfulness that is not considered often enough. 
+The insights are actionable and can directly support decision-making. It is a more costly approach, however.
 
 Takeaways:
 1. I should have been more assertive with respect to ensuring a data-driven product solution for the market.
